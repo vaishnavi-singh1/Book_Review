@@ -1,1 +1,3 @@
-# Book_Review
+# Book Review App
+## Book Review App build using React.js
+
